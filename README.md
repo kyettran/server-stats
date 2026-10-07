@@ -1,6 +1,6 @@
-# Server Performance Stats Analyzer (server-stats.sh)
-
 Project URL: https://github.com/kyettran/server-stats
+
+# Server Performance Stats Analyzer (server-stats.sh)
 
 A lightweight, robust Bash script designed to analyze core Linux server performance metrics quickly and efficiently.
 
