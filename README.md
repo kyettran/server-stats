@@ -1,4 +1,4 @@
-Project URL: https://github.com/kyettran/server-stats
+Project URL: https://roadmap.sh/projects/server-stats
 
 # Server Performance Stats Analyzer (server-stats.sh)
 
